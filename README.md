@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Jayarmananan1994
 - 👀 I’m interested in Backend Engineering, Flutter mobile app developement
 - 🌱 I’m currently learning Kubernetes, AWS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Jayarmananan1994/Jayarmananan1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
